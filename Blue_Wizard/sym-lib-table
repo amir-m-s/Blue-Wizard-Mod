@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name BMD-300)(type Legacy)(uri "${KIPRJMOD}/Symbols and Footprints/BMD-300.lib")(options "")(descr ""))
-  (lib (name SamacSys_Parts)(type Legacy)(uri "${KIPRJMOD}/Symbols and Footprints/SamacSys_Parts.lib")(options "")(descr ""))
+  (version 7)
+  (lib (name "BMD-300")(type "Legacy")(uri "${KIPRJMOD}/Symbols and Footprints/BMD-300.lib")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/Symbols and Footprints/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "Blue_Wizard-rescue")(type "KiCad")(uri "${KIPRJMOD}/Blue_Wizard-rescue.kicad_sym")(options "")(descr ""))
 )
